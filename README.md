@@ -1,0 +1,2 @@
+# Correlation_Analysis_Heatmap
+This project uses Python to perform correlation analysis on the Scikit-learn Diabetes Dataset. The data is inspected and cleaned, and a correlation matrix is calculated. A heatmap and bar chart are created to visualize relationships, identify strong positive and negative correlations, and understand patterns in numerical data.
